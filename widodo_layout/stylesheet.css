@@ -1,4 +1,40 @@
 #content {
   margin: 0 auto;
   width: 900px;
+  font-family: Arial;
+  color:white;
+}
+
+#masthead {
+  position: relative;
+  align-content: center;
+  height: auto;
+  min-width: 1000px;
+  min-height: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#headline {
+  font-family:'Allerta Stencil', sans-serif;
+  font-size: 50px;
+  text-align: center;
+  padding-bottom:1%;
+  color: white;
+}
+
+#byline {
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+font-style: italic;
+text-align: center;
+padding-bottom: 1%;
+color:white;
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 13px;
+
 }
