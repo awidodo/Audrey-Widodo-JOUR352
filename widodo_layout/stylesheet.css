@@ -2,7 +2,7 @@
   margin: 0 auto;
   width: 900px;
   font-family: Georgia, serif;
-  color:white;
+  color: #FFD9B3;
   font-size: 13px;
   line-height: 15px;
 }
@@ -14,10 +14,18 @@ p {
 }
 
 blockquote {
-  font-size: 25px;
-  line-height: 25px;
-  text-align: center;
+  font: 20px normal Georgia, serif;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: black;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 4px solic #ccc;
+  line-height: 24px;
   font-style: italic;
+  text-align: center;
+  background-color: #FFD9B3;
+  background-size: contain;
 }
 
 #masthead {
@@ -45,7 +53,7 @@ font-size: 14px;
 font-style: italic;
 text-align: center;
 padding-bottom: 0%;
-color:white;
+color: white;
 }
 
 #spacecraft {
@@ -53,6 +61,7 @@ color:white;
   padding: 10px;
   font-size: 20px;
   line-height: 25px;
+  color: white;
 }
 
 #img {
