@@ -51,6 +51,10 @@ font-size:13px;
 
 4.  There are two main "areas" or "sections" in the basic structure of an HTML page. In which area would you put a link to a stylesheet?
 
+The two areas in a basic structure of an HTML include the head contents, which holds structural information and metadata about the html that are not visible to users, and the body, which only contains the information displayed on the html that can be viewed by users.
+
+A link to a stylesheet would be placed in the head area because it is an external stylesheet that contains metadata for the html and is not displayed on the html site. 
+
 
 
 5.  In which main "area" or "section" of an HTML page would you put text, images or DIV tags?
