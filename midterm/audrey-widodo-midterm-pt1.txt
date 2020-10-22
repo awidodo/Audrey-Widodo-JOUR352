@@ -71,20 +71,24 @@ For text, images, and DIV tags, you would put that in the body section of the HT
 </div>
 
 8.  In the space below, write the correct CSS code to target a DIV with a class of fruit.  Make the color of the text black (#000000).
-
-
+.fruit {
+color:#000000;
+}
 
 9.  What tag would we use to include an image on an HTML page? Just give me the name of the tag, you don't have to write out all the code.
 
+The tag is <img> to embed an image into a webpage and below is an example of what it would look like:
 
+<img src = "insert path to image here" alt = "insert text">
 
 10.  Why do we use media queries?
 
-A media query is a feature in CSS that allows content to be rendered and adapted to different screen sizes or conditions. We use media queries because they allow for the content layout to be displayed legibly in various conditions such as for desktop, mobile, tablets, and other devices.
+A media query is a feature in CSS that allows content to be rendered and adapted to different screen sizes or conditions. We use media queries because they allow for the content layout to be displayed legibly in various conditions such as for desktop, mobile, tablets, and other devices. It's helpful for the users to easily see the content of a webpage across multiple screen sizes.
 
 
 11. What is the main difference between a serif and a sans-serif font?
 
+A serif font has a stroke at the ends of the letter, usually at the feet, while a serif font is more clean and precise with no decorative embellishments. Examples of serif fonts include, Georgia and Times New Roman. Examples of sans-serif fonts include, Arial, Courier New, and Verdana.  
 
 
 12. Which of the following is a hexadecimal code? To answer, delete the options that are not a hexadecimal code.
