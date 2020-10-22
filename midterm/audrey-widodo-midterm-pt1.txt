@@ -21,12 +21,19 @@ Questions
 
 Google is the best search engine in the world.
 
-
-
+<p><a href="https://www.google.com/" target="_blank">Google</a> is the best search engine in the world </p>
 
 2.  Describe the purpose of a DIV tag.
+The <div> tag is used in an HTML document to define a section and act as container for the elements that can be styled using a class or id attribute using a CSS stylesheet. Any kind of content can be put inside the <div> tag. Here is an example of how DIV tags can be used:
 
+HTML
+<div id="example">Audrey's Midterm</div>
 
+CSS
+#example {
+font-family: Arial, sans-serif;
+font-size:13px;
+}
 
 
 3.  Write out the basic structure of an HTML page, putting the basic tags in the correct position.  (Note: you don't need to connect it to a stylesheet or include DIV tags or anything like that).
