@@ -44,6 +44,7 @@ color:white;
 
 #spacecraft {
   text-align: center;
+  padding: 10px;
 }
 
 #img {
@@ -72,7 +73,7 @@ color:white;
   text-align: center;
   padding-bottom:1%;
   color: white;
-  padding-top: 10px;
+  padding-top: 15px;
 }
 
 .link {
