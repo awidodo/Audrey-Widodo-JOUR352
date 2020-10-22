@@ -53,20 +53,15 @@ font-size:13px;
 
 The two areas in a basic structure of an HTML include the head contents, which holds structural information and metadata about the html that are not visible to users, and the body, which only contains the information displayed on the html that can be viewed by users.
 
-A link to a stylesheet would be placed in the head area because it is an external stylesheet that contains metadata for the html and is not displayed on the html site. 
-
+A link to a stylesheet would be placed in the head area because it is an external stylesheet that contains metadata for the html and is not displayed on the html site.
 
 
 5.  In which main "area" or "section" of an HTML page would you put text, images or DIV tags?
 
+For text, images, and DIV tags, you would put that in the body section of the HTML page, because you want that to be visible for the user.
 
 
 6.  In the space below, put one DIV tag with a class of graphicbox and a second DIV tag with an ID of name.
-
-
-
-
-
 
 
 
@@ -74,14 +69,7 @@ A link to a stylesheet would be placed in the head area because it is an externa
 
 
 
-
-
 8.  In the space below, write the correct CSS code to target a DIV with a class of fruit.  Make the color of the text black (#000000).
-
-
-
-
-
 
 
 
@@ -89,14 +77,12 @@ A link to a stylesheet would be placed in the head area because it is an externa
 
 
 
-
 10.  Why do we use media queries?
 
-
+A media query is a feature in CSS that allows content to be rendered and adapted to different screen sizes or conditions. We use media queries because they allow for the content layout to be displayed legibly in various conditions such as for desktop, mobile, tablets, and other devices.
 
 
 11. What is the main difference between a serif and a sans-serif font?
-
 
 
 
