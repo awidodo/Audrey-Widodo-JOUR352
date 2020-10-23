@@ -1,13 +1,71 @@
+
 #title {
-  font-family: cooper-black-std,serif;
+  font-family: cooper-black-std, serif;
+  font-weight: 400;
+  font-size: 40px;
+  text-align: center;
+  font-weight: normal;
+  color: white;
+  padding: 10px;
+}
+
+#name {
+  font-family: cooper-black-std, serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 50px;
+  font-size: 70px;
   text-align: center;
+  color: 	#BA55D3;
+  background-color: white;
+  padding: 20px;
 }
+
 
 #byline {
   font-family: Helvetica;
-  font-size: 20px;
+  font-size: 15px;
   text-align: center;
+  padding-top: 20px;
+  padding-bottom: 15px;
+  color: white;
+}
+
+#subheadings {
+  font-family: cooper-black-std, serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 35px;
+  text-align: center;
+  color: 	#BA55D3;
+  background: white;
+}
+
+#content p {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  color: white;
+  position: relative;
+}
+
+#images {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+#captions {
+  display: block;
+  position:relative;
+  left: 0px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  width: auto;
+  color:grey;
+  text-align:center;
+  font-weight: lighter;
+  font-family: Arial;
+  font-size: 10px;
 }
