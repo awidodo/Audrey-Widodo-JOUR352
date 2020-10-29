@@ -37,6 +37,7 @@ element.style {
 
 .s-font-body {
   color: white;
+  text-transform: uppercase;
 }
 
 
@@ -141,4 +142,26 @@ color: #676AA7;
 .description {
   font-weight: 400;
 padding-bottom: 50px;
+}
+
+.image3 {
+  width: 800px;
+  text-align:center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  border: 5px solid #40384D;
+}
+
+#degrees {
+  text-align: center;
+  padding-top: 10px;
+  font-weight: regular;
+}
+
+#do li {
+  display:grid;
+  text-align: center;
+  line-height: 30px;
 }
