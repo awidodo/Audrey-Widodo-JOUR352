@@ -1,4 +1,61 @@
-font-family: 'Montserrat', sans-serif;
-regular, medium, bold
+body {font-family: 'Montserrat', sans-serif;
+regular, medium, bold;
 font-family: 'Nunito Sans', sans-serif;
-light, regular, bold
+light, regular, bold}
+
+div {
+  display: block;
+}
+
+element.style {
+  margin-top: 0px;
+}
+
+.s-navbar-section {
+  text-align:left;
+  width: 100%;
+  position: fixed;
+  z-index: 210;
+  background: #676AA7;
+  font-family: "Nunito Sans", sans-serif;
+  font-style: bold;
+  background-image: url("img/masthead_resume@2x.jpg");
+  background-position: center;
+  background-size: contain;
+  background-repeat:no-repeat;
+  background-position: right;
+  padding:inherit;
+  margin-top: -20px;
+  margin-bottom: 10px;
+  margin-left: -10px;
+  margin-right: -10px;
+  line-height: 30px;
+}
+
+.s-nav li {
+  display: flex;
+}
+
+.s-font-body {
+  color: white;
+}
+
+a:link, a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #40384D;
+}
+
+#headshot {
+  padding-top: 70px;
+}
+img {
+  display: block;
+  margin: auto;
+  border-radius: 100%;
+  border: 5px solid #40384D;
+}
