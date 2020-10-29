@@ -41,7 +41,7 @@ element.style {
 }
 
 a:link, a:visited {
-  color: white;
+  color: #676AA7;
   background-color: transparent;
   text-decoration: none;
 }
@@ -58,4 +58,22 @@ img {
   margin: auto;
   border-radius: 100%;
   border: 5px solid #40384D;
+}
+
+h2 {
+  font-family: 'Nunito sans', sans-serif;
+  font-style: bold;
+  font-size: 50px;
+}
+
+.icons {
+  color: #676AA7;
+  display: inline;
+  text-align: center;
+}
+
+.icons li {
+  display: inline;
+  padding-left: 10px;
+  padding-right: 10px;
 }
