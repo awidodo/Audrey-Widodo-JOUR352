@@ -54,7 +54,7 @@ a:hover {
   padding-top: 70px;
 }
 
-img {
+.image1 {
   display: block;
   margin: auto;
   border-radius: 100%;
@@ -82,7 +82,7 @@ h3 {
 
 #text {
   font-family: "Montserrat", sans-serif;
-  font-size: 15px;
+  font-size: 18px;
   font-style: regular;
   padding-left: 300px;
   padding-right: 300px;
@@ -105,4 +105,40 @@ h3 {
 
 .aboutme {
   padding-top: 5px;
+}
+
+.image2 {
+  float: left;
+  padding-right: 20px;
+  width: 150px;
+}
+
+.section_1_content {
+  color: #676AA7;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+
+.jobtitle {
+padding-top: 10px;
+font-weight: black;
+font-size: 22px;
+color: #40384D;
+}
+
+.organization {
+  font-weight: bold;
+  color: #40384D;
+}
+
+.date {
+  font-size: 15px;
+padding-bottom: 10px;
+color: #676AA7;
+}
+
+.description {
+  font-weight: 400;
+padding-bottom: 50px;
 }
