@@ -1,7 +1,6 @@
 body {font-family: 'Montserrat', sans-serif;
-regular, medium, bold;
 font-family: 'Nunito Sans', sans-serif;
-light, regular, bold}
+}
 
 div {
   display: block;
@@ -40,6 +39,7 @@ element.style {
   color: white;
 }
 
+
 a:link, a:visited {
   color: #676AA7;
   background-color: transparent;
@@ -53,6 +53,7 @@ a:hover {
 #headshot {
   padding-top: 70px;
 }
+
 img {
   display: block;
   margin: auto;
@@ -64,6 +65,24 @@ h2 {
   font-family: 'Nunito sans', sans-serif;
   font-style: bold;
   font-size: 50px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  font-style: bold;
+  text-transform: uppercase;
+  text-align: center;
+  color: #40384D;
+}
+
+
+p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  font-style: regular;
 }
 
 .icons {
@@ -76,4 +95,8 @@ h2 {
   display: inline;
   padding-left: 10px;
   padding-right: 10px;
+}
+
+.aboutme {
+  padding-top: 5px;
 }
