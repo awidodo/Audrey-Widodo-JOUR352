@@ -67,10 +67,11 @@ h2 {
   font-size: 50px;
   text-transform: uppercase;
   text-align: center;
+  color: #40384D;
 }
 
 h3 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Nunito sans', sans-serif;
   font-size: 30px;
   font-style: bold;
   text-transform: uppercase;
@@ -79,11 +80,16 @@ h3 {
 }
 
 
-p {
+#text {
   font-family: "Montserrat", sans-serif;
   font-size: 15px;
   font-style: regular;
+  padding-left: 300px;
+  padding-right: 300px;
+  text-align: center;
+  color: #676AA7;
 }
+
 
 .icons {
   color: #676AA7;
