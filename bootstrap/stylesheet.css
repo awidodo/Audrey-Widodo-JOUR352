@@ -63,6 +63,8 @@
   float: left;
   text-align: center;
   width: 33.33%;
+  display: inline-block;
+  padding-bottom: 100px;
 }
 
 .row:after {
