@@ -1,12 +1,13 @@
-.nav {
-  background-color: black;
+.nav-top {
+  color: white;
+  margin: 0 auto;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
 }
 
-.nav-item .nav-link{
-  font-family: 'Roboto', sans-serif;
-  font-size: 13px;
-  color: #f44336;
-  font-weight: bold;
+.red {
+  color: #f23030;
 }
 .overlay >  {
     position: absolute;
@@ -20,12 +21,13 @@
 }
 
 .img-fluid {
-  opacity: 60%;
+  opacity: 30%;
+  background-color: black;
 }
 
 .centered {
   position: absolute;
-  top: 50%;
+  top: 65%;
 left: 50%;
 transform: translate(-50%, -50%);
     }
@@ -41,4 +43,5 @@ p{
   text-align: center;
   font-weight: lighter;
   font-size: 12px;
+  font-family: 'Roboto', sans-serif;
 }
