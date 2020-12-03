@@ -80,10 +80,36 @@ p{
 }
 
 footer {
-  font-size: 12px;
+  font-size: 10px;
   text-align: center;
   background-color: black;
   color: white;
   line-height: 10px;
   padding:20px;
+}
+
+.quote {
+    font-family: 'Roboto', sans-serif;
+    color: #f23030;
+    font-size: 2em;
+    font-weight: : 700px;
+    text-align: left;
+    padding: 15px 0 15px 0;
+    border-top: 1px solid #f23030;
+    border-bottom: 1px solid #f23030;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.quote-attribution {
+  font-size: 0.5em;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  text-align: left;
+  color: #000;
+}
+
+h2 {
+  font-family: 'Montserrat Subrayada', sans-serif;
 }
