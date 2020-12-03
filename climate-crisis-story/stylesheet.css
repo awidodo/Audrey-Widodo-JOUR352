@@ -60,6 +60,23 @@ opacity: .7;
   font-family: 'Roboto', sans-serif;
 }
 
+footer {
+  font-size: 10px;
+  text-align: center;
+  background-color: black;
+  color: white;
+  line-height: 10px;
+  padding:20px;
+}
+
+.footer {
+  text-align: center;
+  font-size: 12px;
+  font-family: 'Roboto', sans-serif;
+  line-height:5px;
+  padding:3px;
+}
+
 p{
   text-align: center;
   font-weight: lighter;
@@ -79,14 +96,7 @@ p{
     padding-right: 70px;
 }
 
-footer {
-  font-size: 10px;
-  text-align: center;
-  background-color: black;
-  color: white;
-  line-height: 10px;
-  padding:20px;
-}
+
 
 .quote {
     font-family: 'Roboto', sans-serif;
@@ -116,7 +126,25 @@ padding-right: 20px;
 
 h2 {
   font-family: 'Montserrat Subrayada', sans-serif;
-  font-size: 30px;
+  font-size:45px;
   color: #f23030;
   text-align: center;
+}
+
+.caption {
+  font-size: 10px;
+  font-weight: lighter;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  font-family: 'Roboto', sans-serif;
+  color: grey;
+}
+
+#attribution {
+  text-align: center;
+  font-weight: lighter;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+  font-style: italic;
 }
