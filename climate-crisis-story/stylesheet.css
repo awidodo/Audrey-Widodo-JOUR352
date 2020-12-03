@@ -63,7 +63,7 @@ opacity: .7;
 p{
   text-align: center;
   font-weight: lighter;
-  font-size: 10px;
+  font-size: 18px;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -109,7 +109,14 @@ footer {
   text-align: left;
   color: #000;
 }
+iframe {
+float: right;
+padding-right: 20px;
+}
 
 h2 {
   font-family: 'Montserrat Subrayada', sans-serif;
+  font-size: 30px;
+  color: #f23030;
+  text-align: center;
 }
