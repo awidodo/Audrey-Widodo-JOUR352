@@ -1,8 +1,44 @@
-
-element.style {
-    height: 689px;
+.nav {
+  background-color: black;
 }
-.jumbotron {
-    background: no-repeat center right fixed url(images/sonia-hug-streetview.jpg);
-    margin-bottom: 0px;
-    padding: 0px;
+
+.nav-item .nav-link{
+  font-family: 'Roboto', sans-serif;
+  font-size: 13px;
+  color: #f44336;
+  font-weight: bold;
+}
+.overlay >  {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: red;
+    z-index: 1;
+
+}
+
+.img-fluid {
+  opacity: 60%;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+    }
+
+.title {
+  text-align: center;
+  font-family: 'Montserrat Subrayada', sans-serif;
+  font-weight: bold;
+  font-size: 60px;
+}
+
+p{
+  text-align: center;
+  font-weight: lighter;
+  font-size: 12px;
+}
