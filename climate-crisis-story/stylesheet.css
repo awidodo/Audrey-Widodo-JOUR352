@@ -82,6 +82,7 @@ p{
   font-weight: lighter;
   font-size: 18px;
   font-family: 'Roboto', sans-serif;
+  color: white;
 }
 
 @media (max-width:600px){
@@ -100,13 +101,13 @@ p{
 
 .quote {
     font-family: 'Roboto', sans-serif;
-    color: #f23030;
+    color: #EAAB00;
     font-size: 2em;
     font-weight: : 700px;
     text-align: left;
     padding: 15px 0 15px 0;
-    border-top: 1px solid #f23030;
-    border-bottom: 1px solid #f23030;
+    border-top: 1px solid #EAAB00;
+    border-bottom: 1px solid #EAAB00;
     margin-top: 20px;
     margin-bottom: 20px;
     text-transform: uppercase;
@@ -127,7 +128,7 @@ padding-right: 20px;
 h2 {
   font-family: 'Montserrat Subrayada', sans-serif;
   font-size:45px;
-  color: #f23030;
+  color: black;
   text-align: center;
 }
 
@@ -138,7 +139,7 @@ h2 {
   padding-top: 5px;
   padding-bottom: 10px;
   font-family: 'Roboto', sans-serif;
-  color: grey;
+  color: black;
 }
 
 #attribution {
