@@ -133,7 +133,7 @@ h2 {
 }
 
 .caption {
-  font-size: 10px;
+  font-size: 13px;
   font-weight: lighter;
   text-align: center;
   padding-top: 5px;
@@ -145,7 +145,8 @@ h2 {
 #attribution {
   text-align: center;
   font-weight: lighter;
-  font-size: 18px;
+  font-size: 22px;
   font-family: 'Roboto', sans-serif;
   font-style: italic;
+  color: white;
 }
