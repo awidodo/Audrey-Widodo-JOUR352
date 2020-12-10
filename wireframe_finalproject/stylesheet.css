@@ -35,7 +35,7 @@
 }
 
 #content {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 300px;
   padding-top: 10px;
   font-weight: lighter;
@@ -50,6 +50,7 @@
   text-align: center;
   padding-top: 15px;
   padding-bottom:5px;
+  width:100%;
 }
 
 #captions {
@@ -103,4 +104,8 @@ footer {
 
 nav {
   font-family: 'Playfair Display', serif;
+}
+
+.image1 {
+  width: 100%;
 }
