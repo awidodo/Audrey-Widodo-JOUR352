@@ -4,7 +4,7 @@
 }
 
 #title {
-  font-family: 'Open Sans', serif;
+  font-family: 'Playfair Display', serif;
   font-weight: 500px;
   font-size: 40px;
   text-align: center;
@@ -32,17 +32,24 @@
   padding-top: 20px;
   font-weight: bold;
   color: white;
+  text-align: center;
+  padding-bottom: 20px;
 }
 
 #content{
-  font-family: 'Cormorant Garamond', sans-serif;
-  font-weight: 300px;
   padding-top: 10px;
   font-weight: lighter;
   font-family: serif;
   color: white;
 }
 
+p{
+  font-family: 'Cormorant Garamond', serif;
+  padding-top: 10px;
+  font-family: serif;
+  color: white;
+  font-size: 15px;
+}
 #images {
   display:block;
   margin-left: auto;
@@ -62,7 +69,6 @@
   color:white;
   text-align:center;
   font-weight: lighter;
-  font-family: serif;
   font-size: 15px;
   font-family: 'Cormorant Garamond', serif;
 }
@@ -110,7 +116,7 @@ nav {
   width: 100%;
 }
 
-iframe {
+iframe{
   background-color: white;
   padding: 30px;
 }
