@@ -40,19 +40,13 @@
 #content{
   padding-top: 15px;
   font-weight: lighter;
-  font-family: serif;
+  font-family: 'Cormorant Garamond', serif;
   color: white;
   padding-left: 70px;
   padding-right: 70px;
+  font-size: 20px;
 }
 
-p{
-  font-family: 'Cormorant Garamond', serif;
-  padding-top: 15px;
-  font-family: serif;
-  color: white;
-  font-size: 15px;
-}
 #images {
   display:block;
   margin-left: auto;
