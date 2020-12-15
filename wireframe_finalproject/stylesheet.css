@@ -125,3 +125,26 @@ iframe{
    background-color:white;
    width:80%
  }
+
+ #read {
+   font-family: 'Playfair Display', serif;
+   color: white;
+   text-align: center;
+ }
+
+ li{
+   display: block;
+   text-align: center;
+ }
+
+ a:link, a:visited {
+   color: #686868;
+   background-color: transparent;
+   text-decoration: none;
+ }
+
+ a:hover {
+   color: grey;
+   background-color: transparent;
+   text-decoration: none;
+ }
